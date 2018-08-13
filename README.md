@@ -1,4 +1,4 @@
-# GoogleFirebaseFunctionsMulifile
+# Google Firebase Functions Multifile
 Split code example for newbie when use Google Firebase Functions
 This is simple example for you to begin develop on Google Firebase
 :+1::+1::+1::+1::+1::+1::+1::+1::+1::+1::+1::+1::+1:
