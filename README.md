@@ -2,6 +2,7 @@
 Split code example for newbie when use Google Firebase Functions
 This is simple example for you to begin develop on Google Firebase
 :+1::+1::+1::+1::+1::+1::+1::+1::+1::+1::+1::+1::+1:
+
 **You need to type this on console to run firebase:**
 ```
 firebase login
